@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Ciência da Computação na UTFPR<br>🌱 Estou a procura de estágio na área<br>⚡ Tenho Técnico em Automação Industrial <br>- estou fazendo cursos de programação
+🔭 Sou estudante de Ciência da Computação na UTFPR<br>🌱 Estou a procura de estágio na área<br>⚡ Sou Técnico em Automação Industrial <br>- estou fazendo cursos de programação
 
 
 ## 🌐 Socials:
